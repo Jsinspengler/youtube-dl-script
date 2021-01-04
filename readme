@@ -1,0 +1,7 @@
+install youtube downloader and ffpmeg
+
+use the following commands:
+
+sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+sudo chmod a+rx /usr/local/bin/youtube-dl
+sudo apt install ffmpeg #ffmpeg allows youtube-dl to concatenate audio and video files for the best quality downloads
