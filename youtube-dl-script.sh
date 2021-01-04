@@ -3,7 +3,7 @@
 #the purpose is to create a base for zenity to be applied in the second attempt at a videodownloader with zenity as a gui interface
 
 #first, update youtube-dl: comment out for testing
-#youtube-dl -U
+youtube-dl -U
 #define variables
 #vidoraud=${vidoraud:-""} #variables are no longer needed, but syntaxing is correct and can be used again
 #singplaypart=${singplaypart:-""} #!!
